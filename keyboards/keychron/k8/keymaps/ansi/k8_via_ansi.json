@@ -2,7 +2,7 @@
   "name": "Keychron K8 ANSI",
   "vendorId": "0x3434",
   "productId": "0xFE0E",
-  "lighting": "none",
+  "lighting": "qmk_rgblight",
   "matrix": {"rows": 6, "cols": 17},
   "layouts": {
     "keymap": [
